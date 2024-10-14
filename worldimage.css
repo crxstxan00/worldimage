@@ -1,12 +1,12 @@
 /*------------------letra--------------------*/
 
 @font-face{
-	src: url('../letra/h.ttf');
+	src: url('h.ttf');
 	font-family: h1; 
 }
 
 @font-face{
-	src: url('../letra/titulo.ttf');
+	src: url('titulo.ttf');
 	font-family: h2;
 }
 
@@ -18,7 +18,7 @@
 }
 
 html{
-	background-image: url(../img/html.jpg);
+	background-image: url(html.jpg);
 	background-repeat: no-repeat;
 	background-size: 100%;
 	background-attachment: fixed;
